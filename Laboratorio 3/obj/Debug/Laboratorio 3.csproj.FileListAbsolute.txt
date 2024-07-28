@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\Laboratorio 3\Laboratorio 3\bin\Debug\Laboratorio 3.exe.config
+C:\Users\David\source\repos\Laboratorio 3\Laboratorio 3\bin\Debug\Laboratorio 3.exe
+C:\Users\David\source\repos\Laboratorio 3\Laboratorio 3\bin\Debug\Laboratorio 3.pdb
+C:\Users\David\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\Laboratorio 3.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\Laboratorio_3.Form1.resources
+C:\Users\David\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\Laboratorio_3.Properties.Resources.resources
+C:\Users\David\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\Laboratorio 3.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\Laboratorio 3.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\Laboratorio 3.exe
+C:\Users\David\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\Laboratorio 3.pdb
+C:\Users\David\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\Laboratorio_3.Ejercicio_5.Colegio.resources
